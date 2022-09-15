@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\razad\WebstormProjects\test3\src\main.ts */"zUnb");
+module.exports = __webpack_require__(/*! C:\Users\razad\WebstormProjects\prj-routing-final\src\main.ts */"zUnb");
 
 
 /***/ }),
@@ -401,7 +401,7 @@ var ShoppingEditComponent = /** @class */ (function () {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<app-header (featureSelected)=\"onNavigate($event)\"></app-header>\n<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-md-12\">\n      <router-outlet></router-outlet>\n    </div>\n  </div>\n</div>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<app-header (featureSelected)=\"onNavigate($event)\"></app-header>\n<div class=\"container\">\n  ahoj\n  <div class=\"row\">\n    <div class=\"col-md-12\">\n      <router-outlet></router-outlet>\n    </div>\n  </div>\n</div>\n");
 
 /***/ }),
 
